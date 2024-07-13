@@ -1,0 +1,20 @@
+[
+    {
+        "word" : "number", "hint":"数値を表す基本的な型"
+    },
+    {
+        "word" : "string", "hint":"文字列を表す基本的な型"
+    },
+    {
+        "word" : "boolean", "hint":"真偽値を表す基本的な型"
+    },
+    {
+        "word" : "array", "hint":"複数の値を格納するための型"
+    },
+    {
+        "word" : "function", "hint":"処理をまとめたもの"
+    },
+    {
+        "word" : "null", "hint":"値が存在しないことを表す"
+    }
+]
